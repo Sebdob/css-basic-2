@@ -1,0 +1,43 @@
+/* p.error{
+    color: red;
+}
+p.succes{
+    color: royalblue;
+}
+p.succes.feedback{
+    border: 1px dashed royalblue;
+}
+#content{
+    background-color: seashell;
+    padding: 20px;
+
+} */
+/* div .error{
+    color: rgb(240, 16, 16);
+} */
+/* a[href="https:/www.wp.pl"]{
+    background-color: seagreen;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+} */
+
+/* a[href*="wp"]{
+    background-color: seagreen;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+} */
+div{
+    color: lightcoral;
+    border: 1px dashed green;
+    margin: 20px;
+    font-weight: bold;
+}
+p{
+    border: inherit;
+    margin: inherit;
+    color: indigo;
+}
